@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - 😄 I'm Aliasghar Mirhshai
 - 🔭 I’m currently working on  My Cv
 
-#3776AB
-l;l
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>

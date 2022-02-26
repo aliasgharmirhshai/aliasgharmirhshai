@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I'm Aliasghar Mirhshai
-🔭 I’m currently working on My Cv
+- 😄 I'm Aliasghar Mirhshai
+- 🔭 I’m currently working on  My Cv
 

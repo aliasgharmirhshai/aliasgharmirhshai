@@ -19,9 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://img.shields.io/github/pipenv/locked/python-version/aliasgharmirhshai/https://github.com/aliasgharmirhshai/Djnago-social-network" width="100"/>
-
-45
+<img alt="GitHub Pipenv locked Python version" src="https://img.shields.io/github/pipenv/locked/python-version/aliasgharmirhshai/https://github.com/aliasgharmirhshai/Djnago-social-network?color=python&label=python&logo=python&logoColor=python">
+4
 <br>
 
 - 😄 I'm Aliasghar Mirhshai

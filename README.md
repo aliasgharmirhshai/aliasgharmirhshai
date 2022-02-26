@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="pic" style="display: flex;">
-  <div id="header" align="left">
+  <div id="header" align="center">
     <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e4785kjdemk87nvz098gphlgojj0ahcpisofrse6yr0&rid=giphy.gif&ct=s" width="100"/>
-        <img src="https://media2.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy_s.gif?cid=ecf05e4785kjdemk87nvz098gphlgojj0ahcpisofrse6yr0&rid=giphy_s.gif&ct=s"                    width="200"/>
-        <img src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b76118833084782bd3d4154a664a75ce7963d6994ae03&rid=giphy.gif&ct=s"        width="200"/>
+    <img src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b76118833084782bd3d4154a664a75ce7963d6994ae03&rid=giphy.gif&ct=s"        width="200"/>
 </div>
 
 <br>
-data-canonical-src="https://github-readme-stats.vercel.app/api?username=uidops&show_icons=true&hide_border=true&count_private=true&theme=react"
 
 <br>
 

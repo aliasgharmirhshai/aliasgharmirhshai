@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🤔 I am a junior python Programer and Data Scientist
+<p align="left">
 <img src="python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
 <img src="datascience.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+</p>
 
 ### Contact Me
 - 📫 You Can Contact Me in Instagram

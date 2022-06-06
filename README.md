@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🤔 I am a junior python Programer and Data Scientist
-<img src="[aliasgharmirhshai/aliasgharmirhshai/blob/main/python.svg](https://github.com/aliasgharmirhshai/aliasgharmirhshai/blob/main/python.svg)" alt="Python" style="vertical-align:top margin:6px 4px">
+<img src="python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
  
 ### Contact Me
 - 📫 You Can Contact Me in Instagram

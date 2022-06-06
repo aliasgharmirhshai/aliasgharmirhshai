@@ -29,5 +29,13 @@ Here are some ideas to get you started:
 
 ### Contact Me
 - 📫 You Can Contact Me in Instagram
+<p align="left">
+<a href="lmyrshahy3@gmail.com">
+<img src="email_me.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+ </a>
+ <a href="https://www.instagram.com/alii.mir.1383/">
+<img src="instagram.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
   
 

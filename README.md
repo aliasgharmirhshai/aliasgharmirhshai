@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  My Cv
 - ❤️ I like Linux , Programing and Logic
 - 🤔 I am a junior python Programer and Data Scientist
- <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+-  <a href="#">
+    <img src="[help/badge1.svg](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg)" alt="Python" style="vertical-align:top margin:6px 4px">
   </a>  
 - 📫 You Can Contact Me in Instagram
   

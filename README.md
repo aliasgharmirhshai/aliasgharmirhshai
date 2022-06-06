@@ -1,5 +1,5 @@
 ### Hi there 
-![](https://img.shields.io/badge/day%20📅-22-blue)
+
 
 <!--
 **aliasgharmirhshai/aliasgharmirhshai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 <img src="instagram.svg" alt="Python" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?aliasgharmirhshai=anuraghazra&show_icons=true&theme=radical)
   
 

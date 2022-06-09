@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?aliasgharmirhshai=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)  
+
 

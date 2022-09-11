@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 😄 I'm Aliasghar Mirhshai
 - 🔭 I’m a junior Back-end Developer
-- ❤️ I like Seo 
+
 
 ### About Me
 - 🤔 Soon ...

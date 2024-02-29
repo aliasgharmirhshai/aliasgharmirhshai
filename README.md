@@ -20,21 +20,7 @@ Here are some ideas to get you started:
 - 😄 I'm Aliasghar Mirhshai
 
 
-
-### About Me
-- 🤔 Soon ...
-
-### Contact Me
-- 📫 You Can Contact Me in Instagram and Email
-<p align="left">
-<a href="lmyrshahy3@gmail.com">
-<img src="email_me.svg" alt="Python" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="https://www.instagram.com/alii.mir.1383/">
-<img src="instagram.svg" alt="Python" style="vertical-align:top margin:6px 4px">
-  </a>
-</p>
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a30bb9d99c9d6731ac5477?variant=dark&roadmaps=golang%2Cbackend%2Cdevops%2Cpython)](https://roadmap.sh)
 
 
 

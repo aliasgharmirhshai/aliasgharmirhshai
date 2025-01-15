@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - 😄 I'm Aliasghar Mirhshai
 - 🌱 I’m currently learning data science
 
-  
-[![roadmap.sh](https://roadmap.sh/card/tall/64a30bb9d99c9d6731ac5477?variant=dark&roadmaps=python%2Cdata-analyst%2Cdatastructures-and-algorithms%2Ccomputer-science)](https://roadmap.sh)
 

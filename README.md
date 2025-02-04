@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently creating things that I’m passionate about.
 
 📫 How to reach me:
-Email -> aliasgharmirshahi2004@gmail.com
-Telegram -> @Ali1829383
+- Email -> aliasgharmirshahi2004@gmail.com
+- Telegram -> @Ali1829383
 

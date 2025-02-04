@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 
 - 😄 I'm Aliasghar Mirhshai
-- 🌱 I’m currently learning data science
+- 🔭 I’m currently creating things that I’m passionate about.
 
+📫 How to reach me:
+Email -> aliasgharmirshahi2004@gmail.com
+Telegram -> @Ali1829383
 

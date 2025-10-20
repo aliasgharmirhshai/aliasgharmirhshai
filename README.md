@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&logoColor=white)](https://t.me/Ali1829383)
 - Email -> aliasgharmirshahi2004@gmail.com
 
+[![roadmap.sh](https://roadmap.sh/card/tall/64a30bb9d99c9d6731ac5477?variant=dark&roadmaps=machine-learning%2Cdata-analyst%2Cai-data-scientist%2Cai-engineer)](https://roadmap.sh)
 
